@@ -5,7 +5,6 @@ import pandas as pd
 from typing import List, Pattern
 
 # Importamos nuestras constantes
-# El '..' sube un nivel de 'pipeline' a 'src'
 from .constants import (
     PDF_BLOOM,
     BLOOM_TABLE_PAGE
